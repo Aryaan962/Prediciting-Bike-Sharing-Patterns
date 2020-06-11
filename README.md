@@ -1,4 +1,4 @@
-# Prediciting-Bike-Sharing-Patterns
+# Prediciting Bike Sharing Patterns
 As part of a deep learning project, I developed this neural network model and taught it how to predict these patterns.
 
 This code is based off learning bike-sharing patterns from months of data to extrapolate future patterns. This helps someone with a business in the bike-sharing industry to optimize the amount of money they can make.
